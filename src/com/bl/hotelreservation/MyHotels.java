@@ -12,9 +12,11 @@ public class MyHotels {
     /**
      * @description create Constructor for Initializing the variables for Hotel Reservation System
      *
-     */
+     *///
+    
     public MyHotels(String hotelName,int dailyReward) {
         this.hotelName = hotelName;
         this.dailyReward = dailyReward;
     }
+    //end of code 
 }
